@@ -1,8 +1,17 @@
 ## Goldlabel Apps Ltd
 
-![Goldlabel Apps](https://live.staticflickr.com/65535/54933586601_f64729ab1f.jpg)
+![Goldlabel Apps](https://live.staticflickr.com/65535/54925135563_df675914c2_z.jpg)
 
-## ✨ 38 _special_ release✨
+### ✨ 38 _special_ release✨
+
+goldlabel.apps@gmail.com
+
+Goldlabel Apps Ltd
+321-323 High Road
+Chadwell Heath
+Essex RM6 6AX
+
+UK Limited Company 5460545
 
 #### 👋 About
 
