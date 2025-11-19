@@ -1,7 +1,10 @@
-![Image](https://live.staticflickr.com/65535/54341281725_d4f54af0c5_n.jpg)
+## Goldlabel Apps Ltd
+
+![Goldlabel Apps](https://live.staticflickr.com/65535/54933586601_f64729ab1f.jpg)
+
 ## ✨ 38 _special_ release✨
 
-#### 👋 Goldlabel Apps Ltd
+#### 👋 About
 
 - [Company](https://goldlabel.pro/work/company)
     - [How we work](https://goldlabel.pro/work/company/how-we-work)
