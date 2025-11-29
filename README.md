@@ -1,6 +1,6 @@
 ## Goldlabel Apps Ltd
 
-![Goldlabel Apps](https://goldlabel.pro/png/lingua.png)
+![Goldlabel Apps](https://goldlabel.pro/png/3rdParty/node_og.png)
 
 ### ✨ 38 _special_ release✨
 
