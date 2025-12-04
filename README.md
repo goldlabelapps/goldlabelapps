@@ -1,6 +1,6 @@
 ## Goldlabel Apps Ltd
 
-![Goldlabel Apps Ltd](https://goldlabel.pro/png/3rdParty/node_og.png)
+![Goldlabel Apps Ltd](https://goldlabel.pro/png/3rdParty/react.png)
 
 ### ✨ 38 _special_ release✨
 
