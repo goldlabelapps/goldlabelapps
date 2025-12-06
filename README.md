@@ -8,6 +8,6 @@ Chadwell Heath
 Essex RM6 6AX  
 UK Limited Company 5460545
 
-![Goldlabel Apps Ltd](https://goldlabel.pro/png/3rdParty/react.png)
-
 goldlabel.apps@gmail.com
+
+![Goldlabel Apps Ltd](https://goldlabel.pro/png/3rdParty/next.png)
