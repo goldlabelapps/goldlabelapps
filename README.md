@@ -10,4 +10,4 @@ UK Limited Company 5460545
 
 goldlabel.apps@gmail.com
 
-![Goldlabel Apps Ltd](https://goldlabel.pro/png/3rdParty/node_og.png)
+![Goldlabel Apps Ltd](https://goldlabel.pro/png/3rdParty/next_og.png)
