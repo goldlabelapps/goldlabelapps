@@ -1,11 +1,9 @@
 ## Goldlabel Apps Ltd  
-
-> Goldlabel Apps Ltd  
-321-323 High Road  
-Chadwell Heath  
-Essex RM6 6AX  
 UK Limited Company 5460545
 
-goldlabel.apps@gmail.com
+> Goldlabel Apps Ltd  
+> 321-323 High Road  
+> Chadwell Heath  
+> Essex RM6 6AX  
 
-![Stowmartians](https://live.staticflickr.com/65535/55043218958_d4d954d513_b.jpg)
+[goldlabel.apps@gmail.com](mailto:goldlabel.apps@gmail.com)
