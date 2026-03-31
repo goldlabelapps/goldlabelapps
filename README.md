@@ -1,4 +1,4 @@
-## Goldlabel Apps Ltd  
+## Goldlabel Apps
 UK Limited Company 5460545
 
 > Goldlabel Apps Ltd  
